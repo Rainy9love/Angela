@@ -2,4 +2,5 @@ Git is a version control system.
 Git is free software.s
 
 a.git add 
-:git commit -m
+shenhua is the champion!
+git commit -m
